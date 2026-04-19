@@ -1,3 +1,5 @@
+> Read the full article on Numoru: https://numoru.com/en/contributions/context-engineering-rag-produccion
+
 # rag-production-stack
 
 Production RAG pipeline with Chonkie + Qdrant hybrid + BGE-reranker + Contextual Retrieval + RedisVL cache + Ragas evals.
